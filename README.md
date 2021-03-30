@@ -7,4 +7,6 @@
 git status
 git commit -m
 git add -A
+git checkout branch
+git push  origin
 ---
